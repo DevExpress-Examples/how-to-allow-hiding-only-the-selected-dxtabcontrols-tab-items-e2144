@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [DataSource.cs](./CS/TabControl_AllowHideSelectedItem/DataSource.cs) (VB: [DataSource.vb](./VB/TabControl_AllowHideSelectedItem/DataSource.vb))
+* [MainPage.xaml](./CS/TabControl_AllowHideSelectedItem/MainPage.xaml) (VB: [MainPage.xaml.vb](./VB/TabControl_AllowHideSelectedItem/MainPage.xaml.vb))
+* [MainPage.xaml.cs](./CS/TabControl_AllowHideSelectedItem/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/TabControl_AllowHideSelectedItem/MainPage.xaml.vb))
+<!-- default file list end -->
 # How to Allow Hiding only the Selected DXTabControl's Tab Items
 
 
